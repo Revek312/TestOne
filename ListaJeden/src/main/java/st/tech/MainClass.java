@@ -12,7 +12,7 @@ public final class MainClass {
 	 * Program entry point
 	 * @param args program arguments
 	 */
-	public static void Main(String[] args) {
+	public static void main(String[] args) {
 		
 		String inputString = IOClass.getString();
 		inputString = StringUtilis.reverseString(inputString);
