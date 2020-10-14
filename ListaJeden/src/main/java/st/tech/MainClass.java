@@ -17,5 +17,7 @@ public final class MainClass {
 		String inputString = IOClass.getString();
 		inputString = StringUtilis.reverseString(inputString);
 		IOClass.printString(inputString);
+		
+		// Bad comment.
 	}
 }
